@@ -1,0 +1,188 @@
+# Norwegian Nynorsk (Norway) translations for PROJECT.
+# Copyright (C) 2022 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2022-03-14 17:56-0500\n"
+"PO-Revision-Date: 2022-03-14 18:03-0500\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: nn_NO\n"
+"Language-Team: nn_NO <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: views/about_view.py:8 views/app_view.py:94
+msgid "Acerca de"
+msgstr "Om"
+
+#: views/about_view.py:17
+msgid ""
+"Manejador BDD Redis\n"
+"Creado el 14/03/2022"
+msgstr ""
+"Redis Databasebehandler\n"
+"Opprettet 14/03/2022"
+
+#: views/about_view.py:18
+msgid ""
+"Autor Jorge Luis Rangel Benitez\n"
+"No. de Control #19260943"
+msgstr ""
+"Forfatter Ari Rangel Benitez\n"
+"kontroll Nummer #19260943"
+
+#: views/about_view.py:19
+msgid ""
+"Materia Taller de Base de Datos\n"
+"Profesora Maria Yolanda Rodriguez Loya"
+msgstr ""
+"Kurs Databaseverksted\n"
+"Professor Maria Yolanda Rodriguez Loya"
+
+#: views/app_view.py:23
+msgid "Manejador Redis"
+msgstr "Redis Ledels"
+
+#: views/app_view.py:49
+msgid "Seleccione una opcion"
+msgstr "Velg et alternativ"
+
+#: views/app_view.py:51
+msgid "Leer Registro"
+msgstr "Lese Logg"
+
+#: views/app_view.py:53
+msgid "Crear/Actualizar Registro"
+msgstr "Opprett/Oppdater Post"
+
+#: views/app_view.py:55
+msgid "Eliminar Registro"
+msgstr "Slett Post"
+
+#: views/app_view.py:58
+msgid "Nombre de clave"
+msgstr "Nøkkelnavn"
+
+#: views/app_view.py:61
+msgid "Tipo de dato"
+msgstr "Data-Type"
+
+#: views/app_view.py:65
+msgid "Valor de clave"
+msgstr "Nøkkelverdi"
+
+#: views/app_view.py:70
+msgid "Leer"
+msgstr "Lese"
+
+#: views/app_view.py:72
+msgid "Crear"
+msgstr "Skape"
+
+#: views/app_view.py:74
+msgid "Eliminar"
+msgstr "Ta Bort"
+
+#: views/app_view.py:78
+msgid "Configuracion"
+msgstr "Omgivelser"
+
+#: views/app_view.py:80
+msgid "Idioma"
+msgstr "Språk"
+
+#: views/app_view.py:82
+msgid "Salir"
+msgstr "Lukk"
+
+#: views/app_view.py:85
+msgid "Español"
+msgstr "Spansk"
+
+#: views/app_view.py:87
+msgid "Ingles"
+msgstr "Engelsk"
+
+#: views/app_view.py:89
+msgid "Noruego"
+msgstr "Norsk"
+
+#: views/app_view.py:92
+msgid "Opciones"
+msgstr "Alternativer"
+
+#: views/app_view.py:98 views/app_view.py:147
+msgid "Claves Existentes\n"
+msgstr "Eksisterende Nøkler"
+
+#: views/app_view.py:192
+msgid "Aviso"
+msgstr "Advarsel"
+
+#: views/app_view.py:193
+msgid "Reinicie la aplicacion para aplicar los cambios."
+msgstr "Start appen på nytt for å bruke endringene"
+
+#: views/app_view.py:251 views/app_view.py:268 views/app_view.py:276
+msgid "Ejecucion Correcta"
+msgstr "Riktig Utførelse"
+
+#: views/app_view.py:253 views/app_view.py:280
+msgid "Ejecucion Incorrecta"
+msgstr "Mislykket Utførelse"
+
+#: views/app_view.py:254 views/app_view.py:281
+msgid "El elemento no existe"
+msgstr "Elementet finnes ikke"
+
+#: views/app_view.py:269 views/app_view.py:277
+msgid "El elemento ha sido agregado correctamente"
+msgstr "Elementet er lagt til"
+
+#: views/configuration_view.py:24
+msgid "Configuracion Global"
+msgstr "Globale Omgivelser"
+
+#: views/configuration_view.py:25
+msgid "Nombre de Host"
+msgstr "Vertsnavn"
+
+#: views/configuration_view.py:26
+msgid "Numero de Puerto"
+msgstr "Portnavn"
+
+#: views/configuration_view.py:27
+msgid "Nombre de Usuario"
+msgstr "Brukernavn"
+
+#: views/configuration_view.py:28
+msgid "Contraseña"
+msgstr "Passord"
+
+#: views/configuration_view.py:34
+msgid "Actualizar"
+msgstr "Å oppdatere"
+
+#: views/configuration_view.py:88
+msgid "Error de conexion"
+msgstr "Tilkoblingsfeil"
+
+#: views/configuration_view.py:88
+msgid "No se pudo conectar al servidor, verifique sus datos."
+msgstr "Kunne ikke koble til serveren, vennligst sjekk detaljene dine."
+
+#: views/configuration_view.py:91
+msgid "Operacion exitosa"
+msgstr "Vellykket operasjon"
+
+#: views/configuration_view.py:91
+msgid "Informacion Actualizada Correctamente"
+msgstr "Informasjonen er riktig oppdatert"
+

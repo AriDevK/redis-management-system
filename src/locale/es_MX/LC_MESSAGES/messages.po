@@ -1,0 +1,199 @@
+# Spanish (Mexico) translations for PROJECT.
+# Copyright (C) 2022 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2022-03-14 17:56-0500\n"
+"PO-Revision-Date: 2022-03-14 05:19-0500\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: es_MX\n"
+"Language-Team: es_MX <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: views/about_view.py:8 views/app_view.py:94
+msgid "Acerca de"
+msgstr "Acerca de"
+
+#: views/about_view.py:17
+msgid ""
+"Manejador BDD Redis\n"
+"Creado el 14/03/2022"
+msgstr ""
+"Manejador BDD Redis\n"
+"Creado el 14/03/2022"
+
+#: views/about_view.py:18
+msgid ""
+"Autor Jorge Luis Rangel Benitez\n"
+"No. de Control #19260943"
+msgstr ""
+"Autor Ari Rangel Benitez\n"
+"No. de Control #19260943"
+
+#: views/about_view.py:19
+msgid ""
+"Materia Taller de Base de Datos\n"
+"Profesora Maria Yolanda Rodriguez Loya"
+msgstr ""
+"Materia Taller de Base de Datos\n"
+"Profesora Maria Yolanda Rodriguez Loya"
+
+#: views/app_view.py:23
+msgid "Manejador Redis"
+msgstr "Manejador Redis"
+
+#: views/app_view.py:49
+msgid "Seleccione una opcion"
+msgstr "Seleccione una opcion"
+
+#: views/app_view.py:51
+msgid "Leer Registro"
+msgstr "Leer Registro"
+
+#: views/app_view.py:53
+msgid "Crear/Actualizar Registro"
+msgstr "Crear/Actualizar Registro"
+
+#: views/app_view.py:55
+msgid "Eliminar Registro"
+msgstr "Eliminar Registro"
+
+#: views/app_view.py:58
+#, fuzzy
+msgid "Nombre de clave"
+msgstr "Nombre de Usuario"
+
+#: views/app_view.py:61
+msgid "Tipo de dato"
+msgstr "Tipo de dato"
+
+#: views/app_view.py:65
+msgid "Valor de clave"
+msgstr "Valor de clave"
+
+#: views/app_view.py:70
+msgid "Leer"
+msgstr "Leer"
+
+#: views/app_view.py:72
+msgid "Crear"
+msgstr "Crear"
+
+#: views/app_view.py:74
+msgid "Eliminar"
+msgstr "Eliminar"
+
+#: views/app_view.py:78
+#, fuzzy
+msgid "Configuracion"
+msgstr "Configuracion Global"
+
+#: views/app_view.py:80
+msgid "Idioma"
+msgstr "Idioma"
+
+#: views/app_view.py:82
+msgid "Salir"
+msgstr "Salir"
+
+#: views/app_view.py:85
+msgid "Español"
+msgstr "Español"
+
+#: views/app_view.py:87
+msgid "Ingles"
+msgstr "Ingles"
+
+#: views/app_view.py:89
+msgid "Noruego"
+msgstr "Noruego"
+
+#: views/app_view.py:92
+msgid "Opciones"
+msgstr "Opciones"
+
+#: views/app_view.py:98 views/app_view.py:147
+msgid "Claves Existentes\n"
+msgstr "Claves Existentes\n"
+
+#: views/app_view.py:192
+msgid "Aviso"
+msgstr "Aviso"
+
+#: views/app_view.py:193
+msgid "Reinicie la aplicacion para aplicar los cambios."
+msgstr "Reinicie la aplicacion para aplicar los cambios."
+
+#: views/app_view.py:251 views/app_view.py:268 views/app_view.py:276
+msgid "Ejecucion Correcta"
+msgstr "Ejecucion Correcta"
+
+#: views/app_view.py:253 views/app_view.py:280
+msgid "Ejecucion Incorrecta"
+msgstr "Ejecucion Incorrecta"
+
+#: views/app_view.py:254 views/app_view.py:281
+msgid "El elemento no existe"
+msgstr "El elemento no existe"
+
+#: views/app_view.py:269 views/app_view.py:277
+msgid "El elemento ha sido agregado correctamente"
+msgstr "El elemento ha sido agregado correctamente"
+
+#: views/configuration_view.py:24
+msgid "Configuracion Global"
+msgstr "Configuracion Global"
+
+#: views/configuration_view.py:25
+msgid "Nombre de Host"
+msgstr "Nombre de Host"
+
+#: views/configuration_view.py:26
+msgid "Numero de Puerto"
+msgstr "Numero de Puerto"
+
+#: views/configuration_view.py:27
+msgid "Nombre de Usuario"
+msgstr "Nombre de Usuario"
+
+#: views/configuration_view.py:28
+msgid "Contraseña"
+msgstr "Contraseña"
+
+#: views/configuration_view.py:34
+msgid "Actualizar"
+msgstr "Actualizar"
+
+#: views/configuration_view.py:88
+msgid "Error de conexion"
+msgstr "Error de conexion"
+
+#: views/configuration_view.py:88
+msgid "No se pudo conectar al servidor, verifique sus datos."
+msgstr "No se pudo conectar al servidor, verifique sus datos."
+
+#: views/configuration_view.py:91
+msgid "Operacion exitosa"
+msgstr "Operacion exitosa"
+
+#: views/configuration_view.py:91
+msgid "Informacion Actualizada Correctamente"
+msgstr "Informacion Actualizada Correctamente"
+
+#~ msgid "Hi"
+#~ msgstr "hola"
+
+#~ msgid "This is a translatable string."
+#~ msgstr "bomdia"
+
+#~ msgid "Reiniciar"
+#~ msgstr "Reiniciar"
+

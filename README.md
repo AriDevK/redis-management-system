@@ -1,8 +1,7 @@
 # 🍱 Manejador BDD Redis
 Interfaz grafica para realizar consultas basicas a una base de datos Redis, escrito en **Python** y usando **Tkinter**
 
-![alt](https://github.com/Ari-Qu3sadillas/redis-management/blob/main/screenshots/app_esp.png)
-
+![alt](https://github.com/Ari-Qu3sadillas/redis-management-system/blob/main/screenshots/app_esp.png)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Redis](https://img.shields.io/badge/redis-E05565?style=for-the-badge&logo=redis&logoColor=FFFFFF)
@@ -12,16 +11,16 @@ Interfaz grafica para realizar consultas basicas a una base de datos Redis, escr
 <br><br>
 
 ## 📑 Tabla de Contenido
-  - [Objetivo](#-Objetivo)
-  - [Dependencias del Proyecto](#-Dependencias-del-Proyecto)
-  - [Estructura de Directorios](#-Estructura-de-Directorios)
+  - [Objetivo](#-objetivo)
+  - [Dependencias-del-Proyecto](#-dependencias-del-proyecto)
+  - [Estructura-de-Directorios](#-estructura-de-directorios)
   - [Instalacion](#-instalacion)
-  - [Screenshots](#-screenshots)
+  - [Capturas de Pantalla](#-capturas-de-pantalla)
 
 <br>
 
 
-## 🎯 Objetivo:
+## 🎯 Objetivo
 Realizar una interfaz grafica que permita la manipulacion de una base de datos Redis, esta interfaz debe de ser construida
 con el lenguaje de programacion **Python** y la libreria **Tkinter**.
 
@@ -57,8 +56,8 @@ redis-management
 ## ⚙ Instalacion
 1. Clona el repositorio y dirigete al directorio.
 ```shell
-$ git clone 
-$ cd 
+$ git clone git@github.com:Ari-Qu3sadillas/redis-management-system.git
+$ cd ./redis-management
 ```
 2. Inicializa y Activa un entorno virtual
 ```shell
@@ -80,23 +79,23 @@ $ python ./main.py
 
 ## 📷 Capturas de Pantalla
 Menu de seleccion de idiomas <br>
-![alt](https://github.com/Ari-Qu3sadillas/redis-management/blob/main/screenshots/menu_lang.png)
+![alt](https://github.com/Ari-Qu3sadillas/redis-management-system/blob/main/screenshots/menu_lang.png)
 <br>
 Interfaz grafica en Ingles <br>
-![alt](https://github.com/Ari-Qu3sadillas/redis-management/blob/main/screenshots/app_en.png)
+![alt](https://github.com/Ari-Qu3sadillas/redis-management-system/blob/main/screenshots/app_en.png)
 <br>
 Interfaz grafica en Español <br>
-![alt](https://github.com/Ari-Qu3sadillas/redis-management/blob/main/screenshots/app_esp.png)
+![alt](https://github.com/Ari-Qu3sadillas/redis-management-system/blob/main/screenshots/app_esp.png)
 <br>
 Interfaz grafica en Noruego <br>
-![alt](https://github.com/Ari-Qu3sadillas/redis-management/blob/main/screenshots/app_nor.png)
+![alt](https://github.com/Ari-Qu3sadillas/redis-management-system/blob/main/screenshots/app_nor.png)
 <br>
 Proceso de Creacion <br>
-![alt](https://github.com/Ari-Qu3sadillas/redis-management/blob/main/screenshots/create.PNG)
+![alt](https://github.com/Ari-Qu3sadillas/redis-management-system/blob/main/screenshots/create.PNG)
 <br>
 Proceso de Lectura <br>
-![alt](https://github.com/Ari-Qu3sadillas/redis-management/blob/main/screenshots/read.PNG)
+![alt](https://github.com/Ari-Qu3sadillas/redis-management-system/blob/main/screenshots/read.PNG)
 <br>
 Proceso de Eliminar <br>
-![alt](https://github.com/Ari-Qu3sadillas/redis-management/blob/main/screenshots/delete.PNG)
+![alt](https://github.com/Ari-Qu3sadillas/redis-management-system/blob/main/screenshots/delete.PNG)
 

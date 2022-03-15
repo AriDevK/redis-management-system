@@ -12,8 +12,8 @@ Interfaz grafica para realizar consultas basicas a una base de datos Redis, escr
 
 ## 📑 Tabla de Contenido
   - [Objetivo](#-objetivo)
-  - [Dependencias-del-Proyecto](#-dependencias-del-proyecto)
-  - [Estructura-de-Directorios](#-estructura-de-directorios)
+  - [Dependencias del Proyecto](#-dependencias-del-proyecto)
+  - [Estructura de Directorios](#-estructura-de-directorios)
   - [Instalacion](#-instalacion)
   - [Capturas de Pantalla](#-capturas-de-pantalla)
 
